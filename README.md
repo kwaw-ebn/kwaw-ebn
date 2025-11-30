@@ -1,6 +1,6 @@
 <!-- Banner (customizable) -->
 <p align="center">
-  <img src="eben_banner" alt="Banner"/>
+  <img src="eben_banner.png" alt="Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Kwaw Ebenezer</strong></h1>
