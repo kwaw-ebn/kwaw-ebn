@@ -29,6 +29,27 @@ I design and deploy intelligent ML apps, interactive dashboards, and data automa
 
 ---
 
+
+# 👋 Hi, I'm Kwaw Ebenezer  
+...(your about me text)...
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwaw-ebn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 👁️ Visitor Counter
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kwaw-ebn)
+
+## 🐍 Contribution Snake Animation
+![Snake animation](https://github.com/kwaw-ebn/kwaw-ebn/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🚀 Featured Projects
+...(your projects here)...
+
+
 ## 🛠 Tech Stack
 
 ### **Languages**
