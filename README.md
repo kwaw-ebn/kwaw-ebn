@@ -1,6 +1,6 @@
 <!-- Banner (customizable) -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x250?text=Kwaw+Ebenezer+%7C+Data+%26+ML+Practitioner+%7C+Public+Health+Specialist" alt="Banner"/>
+  <img src="eben_banner" alt="Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Kwaw Ebenezer</strong></h1>
