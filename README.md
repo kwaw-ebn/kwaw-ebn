@@ -4,15 +4,15 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Kwaw Ebenezer</strong></h1>
-<h3 align="center">Public Health Specialist | Data & ML Practitioner | AI Enthusiast | Cloud & Cybersecurity Trainee</h3>
+<h3 align="center">Data Scientist & AI Engineer | Full Stack & AWS Cloud Developer | Freelance Digital Marketing & Public Health Specialist | Delivering Data-Driven Solutions</h3>
 
 ---
 
 ## 🔥 About Me
 
-I'm a mission-driven Health & Data professional with **8+ years of experience** using **analytics, machine learning, and digital tools** to drive public health decision-making.  
+I’m a Data Scientist and AI Engineer passionate about turning data into powerful solutions. From building full-stack applications to deploying scalable systems on AWS, I create tools that don’t just work—but make an impact.
 
-I design and deploy intelligent ML apps, interactive dashboards, and data automation workflows. My goal is to build **scalable and secure digital health systems** using **Cloud, ML, and modern data engineering principles**.
+Beyond tech, I also operate in digital marketing and public health, giving me a broader perspective on solving problems that matter. Whether it’s analysing data, building AI models, or growing businesses online, I focus on results that are practical, measurable, and effective.
 
 💡 *I love solving real-world problems using AI and data — especially in public health contexts.*
 
